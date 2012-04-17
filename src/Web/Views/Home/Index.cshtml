@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<h2>
+    Index</h2>
+<p>@ViewBag.Hello</p>
+<ul>
+    @foreach (var role in ViewBag.Roles)
+    {
+        <li>@role.Name</li>
+    }
+</ul>

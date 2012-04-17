@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\ShaBoo.Domain.dll
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\ShaBoo.Domain.pdb
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\Ninject.dll
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\ShaBoo.Entities.dll
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\ShaBoo.Entities.pdb
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\Ninject.pdb
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\bin\Debug\Ninject.xml
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\obj\Debug\ShaBoo.Domain.dll
+D:\Documents\Visual Studio 2010\Projects\ShaBoo\src\Domain\obj\Debug\ShaBoo.Domain.pdb
